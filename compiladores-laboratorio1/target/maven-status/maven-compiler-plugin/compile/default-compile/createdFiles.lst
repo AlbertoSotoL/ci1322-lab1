@@ -1,0 +1,12 @@
+core\book\service\BookService.class
+model\Libro.class
+core\student\service\StudentService.class
+core\book\dao\BookDao.class
+core\book\dao\JdbcBookService.class
+core\student\service\StudentServiceImpl.class
+core\book\service\BookServiceImpl.class
+core\student\dao\JdbcStudentService.class
+core\student\dao\StudentDao.class
+Main.class
+model\Estudiante.class
+build\DataLoader.class
